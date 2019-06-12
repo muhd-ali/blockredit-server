@@ -1,0 +1,1 @@
+{"version":3,"file":"handler.js","sourceRoot":"","sources":["../../../src/routes/test/handler.ts"],"names":[],"mappings":";;AAAA,qCAAiC;AACjC,MAAM,MAAM,GAAG,gBAAM,EAAE,CAAC;AAGxB,MAAM,CAAC,GAAG,CAAC,GAAG,EAAE,CAAC,GAAG,EAAE,GAAG,EAAE,EAAE;IAC3B,GAAG,CAAC,IAAI,CAAC,wBAAwB,CAAC,CAAC;AACrC,CAAC,CAAC,CAAC;AAEH,kBAAe,MAAM,CAAC"}
